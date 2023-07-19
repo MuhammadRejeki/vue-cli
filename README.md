@@ -1,25 +1,24 @@
-# vue-project
-
 ## Project setup
 
 ```
 npm install
+npm run serve
+npm run build
 ```
 
 (this command will install all dependencies in package.json)
 
-### Compiles and hot-reloads for development
+### The Basic Using Vue-Cli
 
 ```
-npm run serve
+npm install -g @vue/cli (install global vue-cli)
+vue create [name-project] (this is how to create customize project)
 ```
 
-### Compiles and minifies for production
+# Learn About
 
 ```
-npm run build
+component
+root component
+data binding and all the basic function in vue
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
